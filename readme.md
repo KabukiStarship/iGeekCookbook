@@ -1,6 +1,10 @@
 # IGEEK Cookbook
 
-By Cale McCollough
+By [Cale McCollough](https://cookingwithcale.org)
+
+You can watch the IGeek Cookbook videos and find extra content on YouTube at:
+
+ https://www.youtube.com/channel/UCS2vQG4gUE3vXWV_K9XScQw
 
 ## Content Table
 
