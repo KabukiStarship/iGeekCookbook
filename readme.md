@@ -12,6 +12,7 @@ You can watch the IGeek Cookbook videos and find extra content on YouTube at:
    1. [Quickstart Guide](./GettingStarted/QuickstartGuide)
    1. [Command Line Usage](./GettingStarted/CommandLineUsage)
    1. [Configuration and Build System](./GettingStarted/ConfigurationAndBuildSystem)
+1. [CarWorld](./CarWorld)
 1. [Bibliography](./Bibliography)
 1. [Appendix](./Appendix)
 
