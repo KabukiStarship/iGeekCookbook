@@ -13,7 +13,10 @@ You can watch the IGeek Cookbook videos and find extra content on YouTube at:
    1. [Command Line Usage](./docs/GettingStarted/CommandLineUsage)
    1. [Configuration and Build System](./docs/GettingStarted/ConfigurationAndBuildSystem)
 1. [CarWorld](./docs/CarWorld)
-   1. [Prototype](./docs/Prototype)
+   1. [Prototype](./docs/CarWorld/Prototype)
+      1. [SmartCar1](./docs/CarWorld/Prototype/SmartCar1)
+      1. [PorchCity](./docs/CarWorld/Prototype/PorchCity)
+1. [WikiWorld](./docs/WikiWorld)
 1. [Bibliography](./docs/Bibliography)
 1. [Appendix](./docs/Appendix)
 
